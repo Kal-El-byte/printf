@@ -5,7 +5,7 @@
 /**
  * get_op - select function for conversion char
  * @c: char to check
- * Return: pointer to function
+ * Return: pointer to functions
  */
 
 int (*get_op(const char c))(va_list)
